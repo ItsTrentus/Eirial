@@ -139,16 +139,14 @@
 
 ## Lorein (lo-rain)
 
-```
-Other Names:    Lorien, Loray
-Sex:            Female
-Domains:        Knowledge, Wisdom, Hope
-Alignment:      Good
-Description:
-    Lorein scoured the realms with an insatiable thirst for knowledge.  She shared with the mortals who requested it, but sparingly, and after much deliberation.  The wisdom she possessed allowed her some level of clairvoyance, reaching into the minds of her worshippers, to determine their true motivations for seeking knowledge.  Many who are gifted with the arcane arts also seek the goddesses wisdom. Those who do so with pure intent, are given what they seek.  Others, the more common man, often look to Lorein for simple hopes.  That they will survive another winter.  Or for the wisdom to make the correct choice when all options seem to have unknowable consequence.
-
-Symbol: An owl perched atop a branch
-```
+>     Other Names:    Lorien, Loray
+>     Sex:            Female
+>     Domains:        Knowledge, Wisdom, Hope
+>     Alignment:      Good
+>     Description:
+>               Lorein scoured the realms with an insatiable thirst for knowledge.  She shared with the mortals who requested it, but sparingly, and after much deliberation.  The wisdom she possessed allowed her some level of clairvoyance, reaching into the minds of her worshippers, to determine their true motivations for seeking knowledge.  Many who are gifted with the arcane arts also seek the goddesses wisdom. Those who do so with pure intent, are given what they seek.  Others, the more common man, often look to Lorein for simple hopes.  That they will survive another winter.  Or for the wisdom to make the correct choice when all options seem to have unknowable consequence.
+>
+>     Symbol: An owl perched atop a branch
 
 <p align="center">
     <img src="./assets/images/Lorein-Symbol.png" alt="Symbol of Lorein" />
