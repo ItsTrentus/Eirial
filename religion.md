@@ -206,10 +206,3 @@ Neutral:4
 Evil:4
 
  -->
-
-<style>
-    .markdown-body pre>code {
-        white-space: pre-wrap !important;
-        word-break: break-word;
-    }
-</style>
