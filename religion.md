@@ -10,8 +10,7 @@
     Alignment:      True Neutral
     Symbol:         A figure, rising from behind flames.
 
-<!-- prettier-ignore -->
-```In life, Otaris was known to be loud, boisterous, and hot-tempered. The members of the realm that worship Otaris are often those with great ambition. In some fringe cases, cults adopted the name of Otaris in order to burn down villages and encampments. Fewer still, there were worshippers who prayed to Otaris to to satiate their sexual deviancy.```
+> In life, Otaris was known to be loud, boisterous, and hot-tempered. The members of the realm that worship Otaris are often those with great ambition. In some fringe cases, cults adopted the name of Otaris in order to burn down villages and encampments. Fewer still, there were worshippers who prayed to Otaris to to satiate their sexual deviancy.
 
 <p align="center">
     <img src="./assets/images/Otaris-Symbol.png" alt="Symbol of Otaris" />
