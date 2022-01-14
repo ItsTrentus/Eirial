@@ -210,5 +210,6 @@ Evil:4
 <style>
     code {
         white-space: pre-wrap !important;
+        word-break: break-word;
     }
 </style>
