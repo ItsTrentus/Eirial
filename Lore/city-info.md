@@ -13,9 +13,10 @@ _Quick Glance_
 > Home of **Lord Ashcroft**, ruler of Eirial  
 > Home of Eirial's Military
 > Religiously diverse  
+> Racially diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinbrook.png)
+![Griffinbrook - Capital City](../maps/Griffinbrook/Griffinbrook.png)
 
 ### Social
 
@@ -38,7 +39,7 @@ _Quick Glance_
 
 > Population: ~32,000
 
-![Midthorn](../Maps/Midthorn/Midthorn.jpg)
+![Midthorn](../maps/Midthorn/Midthorn.jpg)
 
 ### Social
 
@@ -55,7 +56,7 @@ _Quick Glance_
 <details>
 <summary>Clovernook</summary>
 
-# Griffinbrook
+# Clovernook
 
 _Quick Glance_
 
@@ -65,7 +66,7 @@ _Quick Glance_
 > Religiously diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinhook.png)
+![Clovernook](../maps/Clovernook/Clovernook.jpg)
 
 ### Social
 
@@ -82,7 +83,7 @@ _Quick Glance_
 <details>
 <summary>Crystalbreak</summary>
 
-# Griffinbrook
+# Crystalbreak
 
 _Quick Glance_
 
@@ -92,7 +93,7 @@ _Quick Glance_
 > Religiously diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinhook.png)
+![Crystalbreak](../maps/Crystalbreak/Crystalbreak2.jpg)
 
 ### Social
 
@@ -109,7 +110,7 @@ _Quick Glance_
 <details>
 <summary>Elderberg</summary>
 
-# Griffinbrook
+# Elderberg
 
 _Quick Glance_
 
@@ -119,7 +120,7 @@ _Quick Glance_
 > Religiously diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinhook.png)
+![Elderberg](../maps/Elderberg/Elderberg.png)
 
 ### Social
 
@@ -136,7 +137,7 @@ _Quick Glance_
 <details>
 <summary>Guanoglen</summary>
 
-# Griffinbrook
+# Guanoglen
 
 _Quick Glance_
 
@@ -146,7 +147,7 @@ _Quick Glance_
 > Religiously diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinhook.png)
+![Guanoglen](../maps/Guanoglen/Guanoglen.png)
 
 ### Social
 
@@ -163,7 +164,7 @@ _Quick Glance_
 <details>
 <summary>Dracorise</summary>
 
-# Griffinbrook
+# Dracorise
 
 _Quick Glance_
 
@@ -173,7 +174,7 @@ _Quick Glance_
 > Religiously diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinhook.png)
+![Dracorise](../maps/Dracorise/Griffinhook.png)
 
 ### Social
 
@@ -190,7 +191,7 @@ _Quick Glance_
 <details>
 <summary>Floating City</summary>
 
-# Griffinbrook
+# Floating City
 
 _Quick Glance_
 
@@ -200,7 +201,7 @@ _Quick Glance_
 > Religiously diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../Maps/Griffinbrook/Griffinhook.png)
+![Floating City](../maps/FloatingCity/FloatingCity.jpg)
 
 ### Social
 
