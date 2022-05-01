@@ -191,11 +191,19 @@ Elderberg is **the** location for traders, merchants, and treasure seekers. Whil
 
 ### Economic
 
-Elderberg's surrounding areas are rich in gem mines. Many of which are hidden in the Koranth Desert. Beyond the gems, Elderberg is known for its high quality silks and massive bazaars.
+Elderberg's surrounding areas are rich in gem mines. Many of which are hidden in the Koranth Desert. Beyond the gems, Elderberg is known for its high quality silks and massive bazaars. Elderberg is one of the only places left in Eirial that still has a slave market. The enslaved are done so due to an outstanding debt, or criminal punishment. The payment of said slave goes to pay off their debt. The vast majority end up in the fighting pits of the colosseum, with the hopes of winning their way to freedom.
 
 ### Religious
 
+Religion holds very little place in the city of Elderberg. Those who do worship, tend to do so privately. Tra'nox and Koranth are present only to those that praise the almighty coin, or the strain of the desert. Balth is known around the colosseum of Elderberg, however that's mainly just amongst the pit fighters.
+
 ### Military
+
+The Kings Guard exist within Elderberg to protect the markets, bazaars, and the governer. While they are technically the Kings Guard, they have been corrupted by wealth and greed. The vast majority find themselves indulging in betting of the pit fighters, offering better protection to merchants that pay, and turning a blind eye to those that don't. The contingent of the Kings Guard in Elderberg is not well organizaed. They see very few threats due to the Koranth desert however, as it is considered impassable for any large-scale invasion.
+
+### View on Magic
+
+Magic is technically outlawed. However, wealth allows for many freedoms. Magic occasionally makes its way into the fighting pits, where it stuns, shocks, and pleases the viewers. Once a magical fighter loses their flare however, they often are executed.
 
 </details>
 
