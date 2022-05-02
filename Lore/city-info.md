@@ -97,7 +97,7 @@ _Quick Glance_
 > Population: ~63,000
 > Governor: Alisha Lightfoot
 > Home to many races, most notably Dragonkin (dragonborn)
-> Claims the majority of trade from Dracorise, Claw Isles, and the island beneath the floating city.
+> Claims the majority of trade from Dracorise and the Claw Isles
 
 ![Clovernook](../maps/Clovernook/Clovernook.jpg)
 
@@ -214,23 +214,32 @@ Magic is technically outlawed. However, wealth allows for many freedoms. Magic o
 
 _Quick Glance_
 
-> Population: ~56,000  
-> Home of **Lord Ashcroft**, ruler of Eirial  
-> Home of Eirial's Military
-> Religiously diverse  
-> Home to all major guilds
+> Population: ~34,000
+> Governor: Kervala La'nesh
+> Largely a halfling, human, and elf population
+> Primary port of travel for those wishing to reach the island beneath the Floating City
 
 ![Guanoglen](../maps/Guanoglen/Guanoglen.png)
 
 ### Social
 
+Guanoglen is a relatively calm city. While there is a slight divergence between the poor and the wealthy - very few ever feel the difference. The city is run as an inclusive community where everyone contributes. All members are respected for their contributions and treated more or less equally. The city is also home to several researchers who wish to study the Floating City.
+
 ### Political
+
+There's little concern, politically in Guanoglen. The only true concern is maintaining the knowledge and secrecy of getting to the Floating City.
 
 ### Economic
 
+Guanoglen is primarily self sufficient, and trades far less than other large cities. However, since Midthorn turned hostile towards the capital, they've become a formal stop on trade routes from Clovernook. They are also the primary entry point from the East to the southern strait.
+
 ### Religious
 
+Religion holds a celebratory place in the hearts of Guanoglen citizens. Phayra is the only diety of note within the city. Parties are held in her honor and songs are sang frequently before ships set sail.
+
 ### Military
+
+Despite their relatively calm demeanor overall in Guanoglen, they have the largest navy in Eirial. Their ships are well versed in traveling the Southern Sea and Sea of Chaos. Most of their training however is not in preparation for a typical naval battle. The navy trains for battles against monsters within the Sea of Chaos. Any and all ships traveling to and from the island below The Floating City are accompanied by at least two fully armed naval vessels.
 
 </details>
 
@@ -241,23 +250,31 @@ _Quick Glance_
 
 _Quick Glance_
 
-> Population: ~56,000  
-> Home of **Lord Ashcroft**, ruler of Eirial  
-> Home of Eirial's Military
-> Religiously diverse  
-> Home to all major guilds
+> Population: ~13,000  
+> Governor: Knolwrath, The Golden Scaled
+> Home to the majority of Dragonkin(dragonborn) in Eirial
 
 ![Dracorise](../maps/Dracorise/Griffinhook.png)
 
 ### Social
 
+In Dracorise, strength is power. Dragonkin and Goliaths rule Dracorise through sheer strength and intimidation. Dracorise is by far the least advanced of the major cities. Much of the society revolves around showing one's battle prowess.
+
 ### Political
+
+Dracrise is removed from most modern politics. They fall under the rule of Ashcroft and Griffinbrook - but they function as their own entity.
 
 ### Economic
 
+The island upon which Dracorise sits is home one the largest deposits of ironwood within Eirial. The island to the East as well moves all goods through Dracorise. This island is home to massive deposits of gold and silver.
+
 ### Religious
 
+None of the formal gods are represented in Dracorise. The dragons of old are represented heavily in this culture. To praise the dragons of old, most people are self sufficient, choosing to build their own homes, grow their own food, and save their currency as a personal "hoard".
+
 ### Military
+
+There is no formal military on Dracorise. All members of the community are considered lethal combatants with a willingness to die for their land or their religion.
 
 </details>
 
@@ -268,11 +285,7 @@ _Quick Glance_
 
 _Quick Glance_
 
-> Population: ~56,000  
-> Home of **Lord Ashcroft**, ruler of Eirial  
-> Home of Eirial's Military
-> Religiously diverse  
-> Home to all major guilds
+> Information not known to players.
 
 ![Floating City](../maps/FloatingCity/FloatingCity.jpg)
 
