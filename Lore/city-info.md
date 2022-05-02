@@ -16,8 +16,6 @@ _Quick Glance_
 > Racially diverse  
 > Home to all major guilds
 
-![Griffinbrook - Capital City](../maps/Griffinbrook/Griffinbrook.png)
-
 ## Social
 
 Griffinbrook is home to many a race and creature. Gnomes, Elves, Humans, Orcs, Firbolgs, Kenku, etc. They all make their home in Griffinbrook. There is a power dynamic based on wealth within the city howeever. Society is informally split into castes. Day laborers, farmers, etc. all are considered of the lowest rung. Many business men, merchants, and a few researchers sit within the middle class. The military, the Ashcroft family, and the higher ranking clergy of the churches of Otaris and Lorein all fill the upper levels of the caste.
@@ -53,13 +51,11 @@ Griffinbrook is no stranger to magic. Many mages are employed by the Ashcroft fa
 
 _Quick Glance_
 
-> Population: ~43,000
-> Ruling Figure:
-> Current home of the Thorn Guard
-> Primarily Humans, Elves, Halflings, and Dwarves
+> Population: ~43,000  
+> Ruling Figure: Raymond Vereen  
+> Current home of the Thorn Guard  
+> Primarily Humans, Elves, Halflings, and Dwarves  
 > Rampant crime due to lack of structured power
-
-![Midthorn](../maps/Midthorn/Midthorn.jpg)
 
 ### Social
 
@@ -94,12 +90,10 @@ Midthorn appreaches magic with a bit more intrigue, rather than disgust or fear.
 
 _Quick Glance_
 
-> Population: ~63,000
-> Governor: Alisha Lightfoot
-> Home to many races, most notably Dragonkin (dragonborn)
+> Population: ~63,000  
+> Governor: Alisha Lightfoot  
+> Home to many races, most notably Dragonkin (dragonborn)  
 > Claims the majority of trade from Dracorise and the Claw Isles
-
-![Clovernook](../maps/Clovernook/Clovernook.jpg)
 
 ### Social
 
@@ -134,12 +128,10 @@ Clovernook's stance on magic is a bit more open than most. However, they believe
 
 _Quick Glance_
 
-> Population: ~37,000
-> Governor: James Clauthorn
-> Relatively diverse racially, more gnomes and dwarves than most larger cities.
+> Population: ~37,000  
+> Governor: James Clauthorn  
+> Relatively diverse racially, more gnomes and dwarves than most larger cities.  
 > Largest Western trade hub.
-
-![Crystalbreak](../maps/Crystalbreak/Crystalbreak2.jpg)
 
 ### Social
 
@@ -175,11 +167,9 @@ Magic is outlawed within the city. It's use and knowledge resitrcted to those wi
 _Quick Glance_
 
 > Population: ~27,000  
-> Governor: Grolosh K'neve
-> Home to many Tabaxi and Orc
+> Governor: Grolosh K'neve  
+> Home to many Tabaxi and Orc  
 > Accessed only by sea or the Koranth Desert
-
-![Elderberg](../maps/Elderberg/Elderberg.png)
 
 ### Social
 
@@ -214,12 +204,10 @@ Magic is technically outlawed. However, wealth allows for many freedoms. Magic o
 
 _Quick Glance_
 
-> Population: ~34,000
-> Governor: Kervala La'nesh
-> Largely a halfling, human, and elf population
+> Population: ~34,000  
+> Governor: Kervala La'nesh  
+> Largely a halfling, human, and elf population  
 > Primary port of travel for those wishing to reach the island beneath the Floating City
-
-![Guanoglen](../maps/Guanoglen/Guanoglen.png)
 
 ### Social
 
@@ -251,10 +239,8 @@ Despite their relatively calm demeanor overall in Guanoglen, they have the large
 _Quick Glance_
 
 > Population: ~13,000  
-> Governor: Knolwrath, The Golden Scaled
+> Governor: Knolwrath, The Golden Scaled  
 > Home to the majority of Dragonkin(dragonborn) in Eirial
-
-![Dracorise](../maps/Dracorise/Griffinhook.png)
 
 ### Social
 
@@ -287,8 +273,6 @@ _Quick Glance_
 
 > Information not known to players.
 
-![Floating City](../maps/FloatingCity/FloatingCity.jpg)
-
 ### Social
 
 ### Political
@@ -298,20 +282,5 @@ _Quick Glance_
 ### Religious
 
 ### Military
-
-</details>
-
-## Minor Cities
-
-<details>
-<summary>Expand</summary>
-
-</details>
-<details>
-<summary>Expand</summary>
-
-</details>
-<details>
-<summary>Expand</summary>
 
 </details>
