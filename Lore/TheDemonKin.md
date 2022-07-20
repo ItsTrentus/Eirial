@@ -1,7 +1,7 @@
 Gist: Lord Ashcroft is a devine being, who's first wife gave birth to Raymond Vereen.
 
 Eons ago, when the Gods still rested upon their thrones above, an ancient evil reared it's ugly head.
-Though powerful in it's own right, this demon dit not possess the ability to directly challenge the gods.
+Though powerful in it's own right, this demon did not possess the ability to directly challenge the gods.
 It sought out a creature of wit and pure heart, landing upon a young man of but only 16. The demon did disguise
 himself, as a man of grandeur and stature.
 

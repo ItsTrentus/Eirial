@@ -32,7 +32,7 @@ Shaya's General Goods
 ==== 5-26-22 ====
 Falcon's Hollow
 
--   Theo created Goat's Vanilla Cream
+-   Theo created Goat's Vanilla Cream with Henry
 
     -   Was ok
 
@@ -76,7 +76,7 @@ Falcon's Hollow
 DM Plan:
 
 -   Progress to Seldge
--   Next town: Fairfield Village
+-   Next town: Fairfield Village - Village
 
     -   Small village, approximately 1500 people, farming village
     -   Has the dog of prestidigitation
