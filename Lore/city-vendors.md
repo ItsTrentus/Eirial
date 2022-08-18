@@ -69,7 +69,12 @@ Maggie - Religious Trinket Shop
 **Owner**: Layla Hoff, female tabaxi
 Type: Bar, Inn, Lewd Bar
 
+## Harlock's Glassware
 
-Lewd bar
-Lens Maker
-Opium
+**Owner**: Matthew Harlock, male elf
+Type: Glass maker, lens maker
+
+## Stone's
+
+**Owner**: Greggory Stone, male goliath
+Type: Hookah, den of ill repute
