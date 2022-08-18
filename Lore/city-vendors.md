@@ -64,6 +64,12 @@ Type: Inn, in the market district.
 
 Maggie - Religious Trinket Shop
 
+## The Washing Well
+
+**Owner**: Layla Hoff, female tabaxi
+Type: Bar, Inn, Lewd Bar
+
+
 Lewd bar
 Lens Maker
 Opium
